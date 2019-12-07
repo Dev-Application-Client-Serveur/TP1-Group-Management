@@ -1,0 +1,13 @@
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\TraineeManagementApp.Win.csprojAssemblyReference.cache
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.Application.resources
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.Properties.Resources.resources
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\TraineeManagementApp.Win.csproj.GenerateResource.cache
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\TraineeManagementApp.Win.csproj.CoreCompileInputs.cache
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\bin\Debug\AppGestionStagiaires.exe.config
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\bin\Debug\AppGestionStagiaires.exe
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\bin\Debug\AppGestionStagiaires.pdb
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.exe
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.pdb
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.Entities.Form_GroupsManager.resources
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.Entities.Form_CreateGroup.resources
+D:\Ismontic_TPs\TP1-Group-Management\TraineeManagementApp.Win\obj\Debug\AppGestionStagiaires.Entities.Form_EditGroup.resources
